@@ -1,0 +1,35 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 0 0 0 50px;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+p {
+  color: #4ecca3;
+  font-family: "Lobster", cursive;
+}
+
+button {
+  margin: 5px 0 0 40px;
+  padding: 10px;
+  background-color: #00b894;
+  color: white;
+  border: none;
+}
